@@ -8,6 +8,7 @@
             var Car = new Car("Honda", "Civic");
 
             var Person = new Person("Alex",25);
+            var kim = new Person("Kim");
         }
     }
 }
