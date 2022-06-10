@@ -9,6 +9,7 @@
 
             var Person = new Person("Alex",25);
             var kim = new Person("Kim");
+            var ken = new Person("Ken");
         }
     }
 }
